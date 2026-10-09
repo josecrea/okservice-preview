@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "cream-palette",
+        "value": "*",
+        "files": [
+          "videos.html"
+        ],
+        "createdAt": "2026-10-08T20:07:17.635Z",
+        "reason": "El fondo #fffef7 no es un crema por defecto: es blanco tintado hacia el amarillo de marca #F1DE27, medido en okservice.es en produccion y documentado en .impeccable.md y en la cabecera de assets/css/site.css. Decision mia, no confirmada por el usuario."
+      }
+    ]
+  }
+}

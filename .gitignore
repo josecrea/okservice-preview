@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+*.log
+assets/trabajos-src/
+assets/generado/
+
+# Worktrees de agentes: no son del proyecto
+.claude/worktrees/
