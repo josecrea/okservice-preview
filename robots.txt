@@ -1,0 +1,3 @@
+# Preview: esta landing no debe indexarse mientras okservice.es sirva el sitio actual.
+User-agent: *
+Disallow: /

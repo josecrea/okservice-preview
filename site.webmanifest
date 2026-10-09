@@ -1,0 +1,9 @@
+{
+  "name": "#Okservice.es — Electricista en Tenerife",
+  "short_name": "Okservice",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f5a623",
+  "lang": "es-ES"
+}
